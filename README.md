@@ -47,14 +47,6 @@ This will:
 
 ---
 
-## 📄 Sample Output Format (Excel)
-
-| ProductName          | Price   | Availability | ProductRating |
-|----------------------|---------|--------------|----------------|
-| Lenovo IdeaPad       | $499.99 | In Stock     | 4              |
-| Asus VivoBook        | $549.99 | In Stock     | 5              |
-| HP Notebook          | $439.99 | In Stock     | 3              |
-
 ✅ You can view the generated Excel file here:  
 🔗 [products.xlsx on Google Drive](https://docs.google.com/spreadsheets/d/1FtTOA7hbVJT2lVQpjG1EvZ0jvgDrwkOO/edit?usp=drive_link&ouid=103782996883313644008&rtpof=true&sd=true)
 
